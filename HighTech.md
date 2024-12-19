@@ -5,14 +5,95 @@
 
 - [Awesome Technology Company ](#awesome-technology-company-)
   - [Table of Contents](#table-of-contents)
+- [Robotics](#robotics)
 - [AI Application](#ai-application)
   - [HeyGen - AI-powered Video Creation at Scale - 数字人](#heygen---ai-powered-video-creation-at-scale---数字人)
 - [Sensor 传感器](#sensor-传感器)
   - [Robosense Technology - China LiDAR Company](#robosense-technology---china-lidar-company)
     - [Products](#products)
     - [Solutions](#solutions)
-    - [Partners](#partners)
     - [Recruitment ☆](#recruitment-)
+
+---
+
+# Robotics
+
+[2024世界机器人大会](https://www.worldrobotconference.com/)
+
+<img src="Pics/RobotMarket.png">
+
+上海
+1. 节卡机器人
+2. **智元机器人**
+3. **傅利叶智能**
+4. 禾赛科技机器人事业部
+5. 穹彻智能
+6. 上海AI-LAB
+7. 开普勒机器人
+8. 上海期智研究院
+9. 华为上海
+10. 科大讯飞
+11. 上海未来伙伴机器人
+12. 阿里 达摩院(北京、上海)
+13. 傲意科技
+
+杭州
+1. **宇树科技**
+2. **云深处机器人**
+3. 西湖机器人
+4. 网易 伏羲机器人
+5. 五八智能
+6. 海康威视机器人(萤石)
+7. 杭州闻名智能科技有限公司
+
+北京
+1. 小米机器人
+2. 字节跳动 AI-LAB
+3. 北京人形机器人创新中心
+4. 银河通用机器人
+5. 星动纪元
+6. [加速进化](https://boosterobotics.com/zh/)
+7. 方舟无限 ARX
+8. 珞石机器人
+9. 干寻智能
+10. 因时机器人
+11. 星海图
+12. 达闼科技
+13. 松延动力
+14. 北京思灵机器人
+15. 美团机器人
+16. 北京源络科技
+17. 盛景智能科技
+18. 中国电子科技集团机器人有限公司
+
+深圳
+1. DJI
+2. **星尘智能**
+3. [松灵机器人](https://new.agilex.ai/about)
+4. 小鹏 机器人事业部
+5. 腾讯 robotics x
+6. 优必选
+7. 逐际动力
+8. 天链机器人(福德)
+9. 季华实验室
+10. 鹏城实验室
+11. 华为诺亚方舟
+12. 大象机器人
+13. 戴盟机器人
+14. 忆海原识
+15. 帕西尼感知科技
+16. 深圳创鑫激光-机器人业务
+
+苏州
+1. 阿格亚
+2. 乐聚机器人
+3. 追觅机器人
+4. 汇川
+5. 海博机器人科技中心
+6. 苏州钧舵机器人
+7. 知行机器人科技有限公司
+
+
 
 ---
 
@@ -130,15 +211,9 @@ Delivering comprehensive data analytics, our customers rely on us to make critic
 <img src="Pics/robosense04.png">
 
 
-### Partners
-
-<center><img src="Pics/robosense02.png" width=70%></center>
-
 
 ### Recruitment ☆
 
 [Join us](https://www.robosense.cn/about/joinus)
-
-
 
 
